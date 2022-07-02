@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_ui_design",
+            "name": "flutter_calculator",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter_ui_design (profile mode)",
+            "name": "flutter_calculator (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "flutter_ui_design (release mode)",
+            "name": "flutter_calculator (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
