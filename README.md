@@ -1,6 +1,6 @@
-# flutter_ui_design
+# flutter_calculator
 
-A new Flutter project.
+Create calculator with using dart/math library.
 
 ## Getting Started
 
